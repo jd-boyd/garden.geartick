@@ -32,4 +32,4 @@ Usage::
             color: 0, 1, 0, 1
             text: ('value: {}').format(gear_tick.value)
 
-![ScreenShot](https://raw.github.com/kivy-garden/garden.geartick/master/snapshot.jpeg)
+![ScreenShot](https://raw.githubusercontent.com/kivy-garden/garden.geartick/master/screenshot.png)
